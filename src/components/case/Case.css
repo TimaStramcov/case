@@ -1,0 +1,11 @@
+.form-case{
+    width: 500px;
+    margin: 30px auto;
+    padding: 10px 30px;
+    background: #DCDCDC;
+    border-radius: 10px;
+}
+
+.form-case__button{
+    margin-top: 20px;
+}
